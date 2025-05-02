@@ -1,0 +1,17 @@
+{
+  "name": "reainerbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "c4pkin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c4pkin",
+  "license": "",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "wio.db": "^4.0.15"
+  }
+}
